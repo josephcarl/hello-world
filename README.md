@@ -1,4 +1,4 @@
 # hello-world
-First repository
+Test repository
 
-testing the new branch and learning github.
+testing the branching method and learning github.
